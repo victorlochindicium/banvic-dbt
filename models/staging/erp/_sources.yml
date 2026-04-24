@@ -1,0 +1,7 @@
+sources:
+  - name: erp 
+    schema: erp_banvic
+    tables:
+      - name: localidades
+      - name: clientes
+      
